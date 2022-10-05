@@ -18,9 +18,6 @@
 
 ### `⚒️ Tools ⚒️`
 
-* HTML, CSS, JavaScript, NodeJS;
-* Venom Package;
-* File System Package.
 
 <br>
 
