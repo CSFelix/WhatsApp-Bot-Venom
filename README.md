@@ -18,6 +18,8 @@
 
 ### `⚒️ Tools ⚒️`
 
+* HTML, CSS, JavaScript, NodeJS;
+
 
 <br>
 
